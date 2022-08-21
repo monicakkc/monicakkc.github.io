@@ -111,6 +111,10 @@
     padding: 1rem 1rem;
 }
 
+.education-gap {
+    padding: 1rem 1rem;
+}
+
 .gap {
     padding: 1rem 2rem;
 }
@@ -131,28 +135,29 @@
 }
 
 .exp-company-name,
-.education-school-name,
+.edu-school-name,
 .awards-company-name {
     font-size: 18px;
     font-weight: bold;
 }
 
 .exp-time-period,
-.educationp-time-period,
+.edu-time-period,
 .awards-time-period {
     font-size: 14px;
 }
 
 .exp-position,
-.education-subject,
+.edu-subject,
 .awards-name {
     font-size: 16px;
     font-weight: bold;
 }
 
 .exp-desc,
-.education-desc,
+.edu-desc,
 .awards-desc {
     font-size: 14px;
     padding-left: 5px;
 } 
+
